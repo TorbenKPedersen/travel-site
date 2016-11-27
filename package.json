@@ -18,6 +18,7 @@
   "homepage": "https://github.com/greatdane66/travel-site#readme",
   "dependencies": {
     "jquery": "^3.1.1",
+    "jquery-smooth-scroll": "^2.0.0",
     "normalize.css": "^4.2.0",
     "waypoints": "^4.0.1"
   },
