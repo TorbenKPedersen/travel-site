@@ -18,7 +18,8 @@
   "homepage": "https://github.com/greatdane66/travel-site#readme",
   "dependencies": {
     "jquery": "^3.1.1",
-    "normalize.css": "^4.2.0"
+    "normalize.css": "^4.2.0",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.0",
